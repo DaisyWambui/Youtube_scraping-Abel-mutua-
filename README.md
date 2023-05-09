@@ -1,4 +1,2 @@
 # Youtube_scraping-Abel-mutua-
-Analyzing youtube video details for my favorite youtuber[Abel mutua].Scraping data from youtube and analyzing it.
-<br/>Using python and its libraries to gather the data from youtube,clean and visualize the data.
-<br/>The data has title of the video,published date,view count,comment count and likes count for each video.
+I conducted a YouTube scraping project focused on analyzing the content of my favorite YouTuber, Abel Mutua. Using Python libraries such as Beautiful Soup and Selenium, I scraped data on his video titles, descriptions, views, likes, and comments. Then, I performed data cleaning and analysis to gain insights into his most popular videos, most common themes, and audience engagement patterns. This project demonstrated my skills in web scraping, data cleaning, and data analysis using Python. The project code and findings can be found on my GitHub repository.
